@@ -1,0 +1,29 @@
+body {
+  background-color: #282c34;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: white; /* Ensure text color contrasts with dark background */
+}
+
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  width: 100%;
+  text-align: center;
+}
+
+main {
+  flex: 1;
+  width: 100%;
+  max-width: 1200px;
+}

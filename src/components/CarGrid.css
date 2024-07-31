@@ -1,0 +1,39 @@
+.car-grid-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Center vertically */
+    background-color: #f4f4f9;
+  }
+  
+  .car-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 150px); /* 3 columns with fixed width */
+    gap: 16px;
+  }
+  
+  .car-cell {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .car-cell:hover {
+    transform: scale(1.05);
+  }
+  
+  .car-cell img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .car-name {
+    padding: 5px;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-align: center;
+  }
+  
