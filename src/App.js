@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, useNavigate } from 'react-router-dom';
 import './App.css';
-import logo from './images/wrx.jpg';
+import logo from '../src/assets/images/wrx.jpg';
 import CarGrid from './components/CarGrid';
 
 function Home() {
