@@ -1,0 +1,323 @@
+[
+  {
+    "id": "ford-mustang-g1",
+    "make": "Ford",
+    "model": "Mustang",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": 1964,
+    "production_end": 1968,
+    "decades": [
+      "1960s"
+    ],
+    "engine_layouts": [
+      "Inline-6",
+      "V8"
+    ],
+    "body_style": "Coupe",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "Muscle Car",
+    "power_output_hp_min": 101,
+    "power_output_hp_max": 335,
+    "power_output_ranges": [
+      "101-200",
+      "201-300",
+      "301-400"
+    ],
+    "transmission": [
+      "Manual",
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": [
+      "Bullitt",
+      "Gone in 60 Seconds"
+    ],
+    "price_at_launch_usd": 2368,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "porsche-911-g1",
+    "make": "Porsche",
+    "model": "911",
+    "generation": 1,
+    "brands": [
+      "Porsche"
+    ],
+    "country_of_origin": "German",
+    "production_start": 1963,
+    "production_end": 1973,
+    "decades": [
+      "1960s",
+      "1970s"
+    ],
+    "engine_layouts": [
+      "Flat-6"
+    ],
+    "body_style": "Coupe",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "Sports Car",
+    "power_output_hp_min": 128,
+    "power_output_hp_max": 210,
+    "power_output_ranges": [
+      "101-200",
+      "201-300"
+    ],
+    "transmission": [
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": 6500,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-corolla-g1",
+    "make": "Toyota",
+    "model": "Corolla",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1966,
+    "production_end": 1970,
+    "decades": [
+      "1960s",
+      "1970s"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "Sedan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "Sedan",
+    "power_output_hp_min": 60,
+    "power_output_hp_max": 73,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Manual",
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": 1700,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "dodge-viper-g1",
+    "make": "Dodge",
+    "model": "Viper",
+    "generation": 1,
+    "brands": [
+      "Dodge"
+    ],
+    "country_of_origin": "American",
+    "production_start": 1992,
+    "production_end": 1995,
+    "decades": [
+      "1990s"
+    ],
+    "engine_layouts": [
+      "V10"
+    ],
+    "body_style": "Convertible",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "Supercar",
+    "power_output_hp_min": 400,
+    "power_output_hp_max": 400,
+    "power_output_ranges": [
+      "301-400"
+    ],
+    "transmission": [
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": 50000,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "subaru-crosstrek-g1",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "generation": 1,
+    "brands": [
+      "Subaru"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2012,
+    "production_end": 2017,
+    "decades": [
+      "2010s"
+    ],
+    "engine_layouts": [
+      "Flat-4"
+    ],
+    "body_style": "SUV",
+    "drivetrain": [
+      "AWD"
+    ],
+    "car_class": "SUV",
+    "power_output_hp_min": 148,
+    "power_output_hp_max": 148,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Manual",
+      "CVT"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": 21995,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "subaru-crosstrek-g2",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "generation": 2,
+    "brands": [
+      "Subaru"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2018,
+    "production_end": 2023,
+    "decades": [
+      "2010s",
+      "2020s"
+    ],
+    "engine_layouts": [
+      "Flat-4"
+    ],
+    "body_style": "SUV",
+    "drivetrain": [
+      "AWD"
+    ],
+    "car_class": "SUV",
+    "power_output_hp_min": 152,
+    "power_output_hp_max": 152,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Manual",
+      "CVT"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": 22710,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "subaru-crosstrek-g3",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "generation": 3,
+    "brands": [
+      "Subaru"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2024,
+    "production_end": null,
+    "decades": [
+      "2020s"
+    ],
+    "engine_layouts": [
+      "Flat-4"
+    ],
+    "body_style": "SUV",
+    "drivetrain": [
+      "AWD"
+    ],
+    "car_class": "SUV",
+    "power_output_hp_min": 149,
+    "power_output_hp_max": 182,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "CVT"
+    ],
+    "fuel_type": [
+      "Gasoline",
+      "Plug-in Hybrid"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": 26995,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-m3-g1",
+    "make": "BMW",
+    "model": "M3",
+    "generation": 1,
+    "brands": [
+      "BMW"
+    ],
+    "country_of_origin": "German",
+    "production_start": 1986,
+    "production_end": 1991,
+    "decades": [
+      "1980s",
+      "1990s"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "Coupe",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "Sports Car",
+    "power_output_hp_min": 192,
+    "power_output_hp_max": 238,
+    "power_output_ranges": [
+      "101-200",
+      "201-300"
+    ],
+    "transmission": [
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": 35000,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  }
+]
