@@ -319,5 +319,5333 @@
     "price_at_launch_usd": 35000,
     "manufacturer_still_active": true,
     "image_url": ""
+  },
+  {
+    "id": "toyota-supra-g1",
+    "make": "Toyota",
+    "model": "Supra",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1986,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 125,
+    "power_output_hp_max": 125,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-camry-g1",
+    "make": "Toyota",
+    "model": "Camry",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1984,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 100,
+    "power_output_hp_max": 100,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline",
+      "Diesel"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-sienna-g1",
+    "make": "Toyota",
+    "model": "Sienna",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 194,
+    "power_output_hp_max": 210,
+    "power_output_ranges": [
+      "101-200",
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-4runner-g1",
+    "make": "Toyota",
+    "model": "4Runner",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 96,
+    "power_output_hp_max": 100,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-crown-g1",
+    "make": "Toyota",
+    "model": "Crown",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 40,
+    "power_output_hp_max": 40,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-yaris-g1",
+    "make": "Toyota",
+    "model": "Yaris",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2007,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": "TODO — integer, weakest engine option at first gen launch",
+    "power_output_hp_max": "TODO — integer, strongest engine option at first gen launch",
+    "power_output_ranges": [
+      "TODO — run derive-fields.mjs after setting hp values"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-venza-g1",
+    "make": "Toyota",
+    "model": "Venza",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2009,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 181,
+    "power_output_hp_max": 182,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-highlander-g1",
+    "make": "Toyota",
+    "model": "Highlander",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2017,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 155,
+    "power_output_hp_max": 155,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-sequoia-g1",
+    "make": "Toyota",
+    "model": "Sequoia",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 240,
+    "power_output_hp_max": 240,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-gr86-g1",
+    "make": "Toyota",
+    "model": "GR86",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 200,
+    "power_output_hp_max": 207,
+    "power_output_ranges": [
+      "101-200",
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "honda-ridgeline-g1",
+    "make": "Honda",
+    "model": "Ridgeline",
+    "generation": 1,
+    "brands": [
+      "Honda"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": "TODO — integer, weakest engine option at first gen launch",
+    "power_output_hp_max": "TODO — integer, strongest engine option at first gen launch",
+    "power_output_ranges": [
+      "TODO — run derive-fields.mjs after setting hp values"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "honda-civic-g1",
+    "make": "Honda",
+    "model": "Civic",
+    "generation": 1,
+    "brands": [
+      "Honda"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1984,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 76,
+    "power_output_hp_max": 76,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "honda-fit-g1",
+    "make": "Honda",
+    "model": "Fit",
+    "generation": 1,
+    "brands": [
+      "Honda"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2007,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 100,
+    "power_output_hp_max": 100,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "honda-odyssey-g1",
+    "make": "Honda",
+    "model": "Odyssey",
+    "generation": 1,
+    "brands": [
+      "Honda"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1995,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 210,
+    "power_output_hp_max": 210,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "honda-pilot-g1",
+    "make": "Honda",
+    "model": "Pilot",
+    "generation": 1,
+    "brands": [
+      "Honda"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 240,
+    "power_output_hp_max": 240,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "honda-accord-g1",
+    "make": "Honda",
+    "model": "Accord",
+    "generation": 1,
+    "brands": [
+      "Honda"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1984,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 80,
+    "power_output_hp_max": 80,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "honda-cr-v-g1",
+    "make": "Honda",
+    "model": "CR-V",
+    "generation": 1,
+    "brands": [
+      "Honda"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 147,
+    "power_output_hp_max": 147,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "honda-passport-g1",
+    "make": "Honda",
+    "model": "Passport",
+    "generation": 1,
+    "brands": [
+      "Honda"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 190,
+    "power_output_hp_max": 190,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-explorer-g1",
+    "make": "Ford",
+    "model": "Explorer",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 155,
+    "power_output_hp_max": 155,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-edge-g1",
+    "make": "Ford",
+    "model": "Edge",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 265,
+    "power_output_hp_max": 265,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-f-150-g1",
+    "make": "Ford",
+    "model": "F-150",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 426,
+    "power_output_hp_max": 426,
+    "power_output_ranges": [
+      "401-500"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-f-250-g1",
+    "make": "Ford",
+    "model": "F-250",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 426,
+    "power_output_hp_max": 426,
+    "power_output_ranges": [
+      "401-500"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-f-350-g1",
+    "make": "Ford",
+    "model": "F-350",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 255,
+    "power_output_hp_max": 255,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-focus-g1",
+    "make": "Ford",
+    "model": "Focus",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": 2000,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 225,
+    "power_output_hp_max": 225,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-bronco-g1",
+    "make": "Ford",
+    "model": "Bronco",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 210,
+    "power_output_hp_max": 210,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-escape-g1",
+    "make": "Ford",
+    "model": "Escape",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 127,
+    "power_output_hp_max": 127,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-expedition-g1",
+    "make": "Ford",
+    "model": "Expedition",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 215,
+    "power_output_hp_max": 215,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-ranger-g1",
+    "make": "Ford",
+    "model": "Ranger",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": "TODO — integer, weakest engine option at first gen launch",
+    "power_output_hp_max": "TODO — integer, strongest engine option at first gen launch",
+    "power_output_ranges": [
+      "TODO — run derive-fields.mjs after setting hp values"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-maverick-g1",
+    "make": "Ford",
+    "model": "Maverick",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": "TODO — integer, weakest engine option at first gen launch",
+    "power_output_hp_max": "TODO — integer, strongest engine option at first gen launch",
+    "power_output_ranges": [
+      "TODO — run derive-fields.mjs after setting hp values"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-transit-g1",
+    "make": "Ford",
+    "model": "Transit",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 43,
+    "power_output_hp_max": 43,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-fusion-g1",
+    "make": "Ford",
+    "model": "Fusion",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": 2006,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 160,
+    "power_output_hp_max": 160,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-excursion-g1",
+    "make": "Ford",
+    "model": "Excursion",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 255,
+    "power_output_hp_max": 255,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-taurus-g1",
+    "make": "Ford",
+    "model": "Taurus",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": 1986,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 203,
+    "power_output_hp_max": 203,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-flex-g1",
+    "make": "Ford",
+    "model": "Flex",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 262,
+    "power_output_hp_max": 262,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ford-gt-g1",
+    "make": "Ford",
+    "model": "GT",
+    "generation": 1,
+    "brands": [
+      "Ford"
+    ],
+    "country_of_origin": "American",
+    "production_start": 2005,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "V8"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 500,
+    "power_output_hp_max": 500,
+    "power_output_ranges": [
+      "401-500"
+    ],
+    "transmission": [
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-camaro-g1",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": 1984,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4",
+      "V8"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 330,
+    "power_output_hp_max": 330,
+    "power_output_ranges": [
+      "301-400"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-silverado-g1",
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 285,
+    "power_output_hp_max": 285,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-equinox-g1",
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 185,
+    "power_output_hp_max": 185,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-traverse-g1",
+    "make": "Chevrolet",
+    "model": "Traverse",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 281,
+    "power_output_hp_max": 281,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-suburban-g1",
+    "make": "Chevrolet",
+    "model": "Suburban",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 145,
+    "power_output_hp_max": 145,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-tahoe-g1",
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 200,
+    "power_output_hp_max": 200,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-colorado-g1",
+    "make": "Chevrolet",
+    "model": "Colorado",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 300,
+    "power_output_hp_max": 300,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-blazer-g1",
+    "make": "Chevrolet",
+    "model": "Blazer",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": "TODO — integer, weakest engine option at first gen launch",
+    "power_output_hp_max": "TODO — integer, strongest engine option at first gen launch",
+    "power_output_ranges": [
+      "TODO — run derive-fields.mjs after setting hp values"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-impala-g1",
+    "make": "Chevrolet",
+    "model": "Impala",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": 2000,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 185,
+    "power_output_hp_max": 185,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-malibu-g1",
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": 1997,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 300,
+    "power_output_hp_max": 300,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-bolt-ev-g1",
+    "make": "Chevrolet",
+    "model": "Bolt EV",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": 2017,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 200,
+    "power_output_hp_max": 200,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Electric"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-corvette-g1",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": 1984,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "V8"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 150,
+    "power_output_hp_max": 150,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-trax-g1",
+    "make": "Chevrolet",
+    "model": "Trax",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": 2015,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 138,
+    "power_output_hp_max": 138,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-trailblazer-g1",
+    "make": "Chevrolet",
+    "model": "Trailblazer",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": "TODO — integer, weakest engine option at first gen launch",
+    "power_output_hp_max": "TODO — integer, strongest engine option at first gen launch",
+    "power_output_ranges": [
+      "TODO — run derive-fields.mjs after setting hp values"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-express-g1",
+    "make": "Chevrolet",
+    "model": "Express",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": "TODO — integer, weakest engine option at first gen launch",
+    "power_output_hp_max": "TODO — integer, strongest engine option at first gen launch",
+    "power_output_ranges": [
+      "TODO — run derive-fields.mjs after setting hp values"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-hhr-g1",
+    "make": "Chevrolet",
+    "model": "HHR",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 260,
+    "power_output_hp_max": 260,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-cobalt-g1",
+    "make": "Chevrolet",
+    "model": "Cobalt",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": 2005,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 155,
+    "power_output_hp_max": 155,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "chevrolet-cruze-g1",
+    "make": "Chevrolet",
+    "model": "Cruze",
+    "generation": 1,
+    "brands": [
+      "Chevrolet"
+    ],
+    "country_of_origin": "American",
+    "production_start": 2011,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 138,
+    "power_output_hp_max": 138,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "dodge-charger-g1",
+    "make": "Dodge",
+    "model": "Charger",
+    "generation": 1,
+    "brands": [
+      "Dodge"
+    ],
+    "country_of_origin": "American",
+    "production_start": 1984,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 142,
+    "power_output_hp_max": 142,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "dodge-durango-g1",
+    "make": "Dodge",
+    "model": "Durango",
+    "generation": 1,
+    "brands": [
+      "Dodge"
+    ],
+    "country_of_origin": "American",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 360,
+    "power_output_hp_max": 360,
+    "power_output_ranges": [
+      "301-400"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "dodge-journey-g1",
+    "make": "Dodge",
+    "model": "Journey",
+    "generation": 1,
+    "brands": [
+      "Dodge"
+    ],
+    "country_of_origin": "American",
+    "production_start": 2016,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 140,
+    "power_output_hp_max": 140,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "dodge-grand-caravan-g1",
+    "make": "Dodge",
+    "model": "Grand Caravan",
+    "generation": 1,
+    "brands": [
+      "Dodge"
+    ],
+    "country_of_origin": "American",
+    "production_start": 2010,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 96,
+    "power_output_hp_max": 96,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "dodge-intrepid-g1",
+    "make": "Dodge",
+    "model": "Intrepid",
+    "generation": 1,
+    "brands": [
+      "Dodge"
+    ],
+    "country_of_origin": "American",
+    "production_start": 1993,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 200,
+    "power_output_hp_max": 200,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "dodge-avenger-g1",
+    "make": "Dodge",
+    "model": "Avenger",
+    "generation": 1,
+    "brands": [
+      "Dodge"
+    ],
+    "country_of_origin": "American",
+    "production_start": 1995,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 140,
+    "power_output_hp_max": 140,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "dodge-stratus-g1",
+    "make": "Dodge",
+    "model": "Stratus",
+    "generation": 1,
+    "brands": [
+      "Dodge"
+    ],
+    "country_of_origin": "American",
+    "production_start": 1995,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 168,
+    "power_output_hp_max": 168,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "dodge-neon-g1",
+    "make": "Dodge",
+    "model": "Neon",
+    "generation": 1,
+    "brands": [
+      "Dodge"
+    ],
+    "country_of_origin": "American",
+    "production_start": 1995,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 100,
+    "power_output_hp_max": 100,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "dodge-caliber-g1",
+    "make": "Dodge",
+    "model": "Caliber",
+    "generation": 1,
+    "brands": [
+      "Dodge"
+    ],
+    "country_of_origin": "American",
+    "production_start": 2007,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD",
+      "4WD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 148,
+    "power_output_hp_max": 148,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "CVT",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "dodge-dart-g1",
+    "make": "Dodge",
+    "model": "Dart",
+    "generation": 1,
+    "brands": [
+      "Dodge"
+    ],
+    "country_of_origin": "American",
+    "production_start": 2013,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 415,
+    "power_output_hp_max": 415,
+    "power_output_ranges": [
+      "401-500"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "subaru-wrx-g1",
+    "make": "Subaru",
+    "model": "WRX",
+    "generation": 1,
+    "brands": [
+      "Subaru"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2015,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "AWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 268,
+    "power_output_hp_max": 268,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "subaru-brz-g1",
+    "make": "Subaru",
+    "model": "BRZ",
+    "generation": 1,
+    "brands": [
+      "Subaru"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2013,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 200,
+    "power_output_hp_max": 207,
+    "power_output_ranges": [
+      "101-200",
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "subaru-outback-g1",
+    "make": "Subaru",
+    "model": "Outback",
+    "generation": 1,
+    "brands": [
+      "Subaru"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 135,
+    "power_output_hp_max": 135,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "subaru-forester-g1",
+    "make": "Subaru",
+    "model": "Forester",
+    "generation": 1,
+    "brands": [
+      "Subaru"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 174,
+    "power_output_hp_max": 174,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "subaru-impreza-g1",
+    "make": "Subaru",
+    "model": "Impreza",
+    "generation": 1,
+    "brands": [
+      "Subaru"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1993,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 240,
+    "power_output_hp_max": 240,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "subaru-legacy-g1",
+    "make": "Subaru",
+    "model": "Legacy",
+    "generation": 1,
+    "brands": [
+      "Subaru"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1990,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 175,
+    "power_output_hp_max": 175,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "subaru-ascent-g1",
+    "make": "Subaru",
+    "model": "Ascent",
+    "generation": 1,
+    "brands": [
+      "Subaru"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2019,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "AWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 260,
+    "power_output_hp_max": 260,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "subaru-baja-g1",
+    "make": "Subaru",
+    "model": "Baja",
+    "generation": 1,
+    "brands": [
+      "Subaru"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 210,
+    "power_output_hp_max": 210,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "porsche-cayenne-g1",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "generation": 1,
+    "brands": [
+      "Porsche"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2004,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "4WD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 250,
+    "power_output_hp_max": 250,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "porsche-macan-g1",
+    "make": "Porsche",
+    "model": "Macan",
+    "generation": 1,
+    "brands": [
+      "Porsche"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2017,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "AWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 340,
+    "power_output_hp_max": 340,
+    "power_output_ranges": [
+      "301-400"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "porsche-panamera-g1",
+    "make": "Porsche",
+    "model": "Panamera",
+    "generation": 1,
+    "brands": [
+      "Porsche"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2011,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 47,
+    "power_output_hp_max": 47,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "porsche-taycan-g1",
+    "make": "Porsche",
+    "model": "Taycan",
+    "generation": 1,
+    "brands": [
+      "Porsche"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 402,
+    "power_output_hp_max": 402,
+    "power_output_ranges": [
+      "401-500"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "porsche-boxster-g1",
+    "make": "Porsche",
+    "model": "Boxster",
+    "generation": 1,
+    "brands": [
+      "Porsche"
+    ],
+    "country_of_origin": "German",
+    "production_start": 1997,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 236,
+    "power_output_hp_max": 236,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "nissan-frontier-g1",
+    "make": "Nissan",
+    "model": "Frontier",
+    "generation": 1,
+    "brands": [
+      "Nissan"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": "TODO — integer, weakest engine option at first gen launch",
+    "power_output_hp_max": "TODO — integer, strongest engine option at first gen launch",
+    "power_output_ranges": [
+      "TODO — run derive-fields.mjs after setting hp values"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "nissan-armada-g1",
+    "make": "Nissan",
+    "model": "Armada",
+    "generation": 1,
+    "brands": [
+      "Nissan"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 305,
+    "power_output_hp_max": 305,
+    "power_output_ranges": [
+      "301-400"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "nissan-pathfinder-g1",
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "generation": 1,
+    "brands": [
+      "Nissan"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 140,
+    "power_output_hp_max": 140,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "nissan-rogue-g1",
+    "make": "Nissan",
+    "model": "Rogue",
+    "generation": 1,
+    "brands": [
+      "Nissan"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 170,
+    "power_output_hp_max": 170,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "nissan-murano-g1",
+    "make": "Nissan",
+    "model": "Murano",
+    "generation": 1,
+    "brands": [
+      "Nissan"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 245,
+    "power_output_hp_max": 245,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "nissan-altima-g1",
+    "make": "Nissan",
+    "model": "Altima",
+    "generation": 1,
+    "brands": [
+      "Nissan"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1998,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 150,
+    "power_output_hp_max": 150,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "nissan-maxima-g1",
+    "make": "Nissan",
+    "model": "Maxima",
+    "generation": 1,
+    "brands": [
+      "Nissan"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1984,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 120,
+    "power_output_hp_max": 120,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "nissan-sentra-g1",
+    "make": "Nissan",
+    "model": "Sentra",
+    "generation": 1,
+    "brands": [
+      "Nissan"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1984,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 67,
+    "power_output_hp_max": 67,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline",
+      "Diesel"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "nissan-versa-g1",
+    "make": "Nissan",
+    "model": "Versa",
+    "generation": 1,
+    "brands": [
+      "Nissan"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2007,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": "TODO — integer, weakest engine option at first gen launch",
+    "power_output_hp_max": "TODO — integer, strongest engine option at first gen launch",
+    "power_output_ranges": [
+      "TODO — run derive-fields.mjs after setting hp values"
+    ],
+    "transmission": [
+      "CVT",
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "nissan-juke-g1",
+    "make": "Nissan",
+    "model": "Juke",
+    "generation": 1,
+    "brands": [
+      "Nissan"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2011,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 197,
+    "power_output_hp_max": 197,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "nissan-kicks-g1",
+    "make": "Nissan",
+    "model": "Kicks",
+    "generation": 1,
+    "brands": [
+      "Nissan"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2018,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 129,
+    "power_output_hp_max": 129,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "CVT"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "nissan-leaf-g1",
+    "make": "Nissan",
+    "model": "Leaf",
+    "generation": 1,
+    "brands": [
+      "Nissan"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2011,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 107,
+    "power_output_hp_max": 107,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Electric"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-i3-g1",
+    "make": "Bmw",
+    "model": "i3",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2019,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 30,
+    "power_output_hp_max": 30,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Electric"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-i8-g1",
+    "make": "Bmw",
+    "model": "i8",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2014,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "AWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 131,
+    "power_output_hp_max": 131,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-m2-g1",
+    "make": "Bmw",
+    "model": "M2",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2016,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 365,
+    "power_output_hp_max": 365,
+    "power_output_ranges": [
+      "301-400"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-m4-g1",
+    "make": "Bmw",
+    "model": "M4",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 425,
+    "power_output_hp_max": 425,
+    "power_output_ranges": [
+      "401-500"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-m5-g1",
+    "make": "Bmw",
+    "model": "M5",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": 1991,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 282,
+    "power_output_hp_max": 282,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-m6-g1",
+    "make": "Bmw",
+    "model": "M6",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": 1989,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 282,
+    "power_output_hp_max": 282,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-x1-g1",
+    "make": "Bmw",
+    "model": "X1",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": "TODO — integer, weakest engine option at first gen launch",
+    "power_output_hp_max": "TODO — integer, strongest engine option at first gen launch",
+    "power_output_ranges": [
+      "TODO — run derive-fields.mjs after setting hp values"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-x2-g1",
+    "make": "Bmw",
+    "model": "X2",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 94,
+    "power_output_hp_max": 94,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-x3-g1",
+    "make": "Bmw",
+    "model": "X3",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2004,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "4WD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 282,
+    "power_output_hp_max": 282,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-x4-g1",
+    "make": "Bmw",
+    "model": "X4",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 355,
+    "power_output_hp_max": 355,
+    "power_output_ranges": [
+      "301-400"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-x5-g1",
+    "make": "Bmw",
+    "model": "X5",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2000,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "V8"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 555,
+    "power_output_hp_max": 555,
+    "power_output_ranges": [
+      "501-600"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-x6-g1",
+    "make": "Bmw",
+    "model": "X6",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 547,
+    "power_output_hp_max": 547,
+    "power_output_ranges": [
+      "501-600"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-x7-g1",
+    "make": "Bmw",
+    "model": "X7",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 335,
+    "power_output_hp_max": 335,
+    "power_output_ranges": [
+      "301-400"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-z3-g1",
+    "make": "Bmw",
+    "model": "Z3",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 114,
+    "power_output_hp_max": 114,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bmw-z4-g1",
+    "make": "Bmw",
+    "model": "Z4",
+    "generation": 1,
+    "brands": [
+      "Bmw"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 154,
+    "power_output_hp_max": 154,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "audi-r8-g1",
+    "make": "Audi",
+    "model": "R8",
+    "generation": 1,
+    "brands": [
+      "Audi"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2008,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "V8"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "4WD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 10,
+    "power_output_hp_max": 10,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "audi-a3-g1",
+    "make": "Audi",
+    "model": "A3",
+    "generation": 1,
+    "brands": [
+      "Audi"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2006,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 180,
+    "power_output_hp_max": 180,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "audi-a4-g1",
+    "make": "Audi",
+    "model": "A4",
+    "generation": 1,
+    "brands": [
+      "Audi"
+    ],
+    "country_of_origin": "German",
+    "production_start": 1996,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 90,
+    "power_output_hp_max": 90,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "audi-a5-g1",
+    "make": "Audi",
+    "model": "A5",
+    "generation": 1,
+    "brands": [
+      "Audi"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 261,
+    "power_output_hp_max": 261,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "audi-a6-g1",
+    "make": "Audi",
+    "model": "A6",
+    "generation": 1,
+    "brands": [
+      "Audi"
+    ],
+    "country_of_origin": "German",
+    "production_start": 1995,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 138,
+    "power_output_hp_max": 138,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "audi-a7-g1",
+    "make": "Audi",
+    "model": "A7",
+    "generation": 1,
+    "brands": [
+      "Audi"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2023,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "AWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 225,
+    "power_output_hp_max": 225,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "audi-a8-g1",
+    "make": "Audi",
+    "model": "A8",
+    "generation": 1,
+    "brands": [
+      "Audi"
+    ],
+    "country_of_origin": "German",
+    "production_start": 1997,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "V8"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD",
+      "4WD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 190,
+    "power_output_hp_max": 190,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "audi-q3-g1",
+    "make": "Audi",
+    "model": "Q3",
+    "generation": 1,
+    "brands": [
+      "Audi"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2015,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 204,
+    "power_output_hp_max": 204,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "audi-q5-g1",
+    "make": "Audi",
+    "model": "Q5",
+    "generation": 1,
+    "brands": [
+      "Audi"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2009,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "AWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 240,
+    "power_output_hp_max": 240,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "audi-q7-g1",
+    "make": "Audi",
+    "model": "Q7",
+    "generation": 1,
+    "brands": [
+      "Audi"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2007,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "V8"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "4WD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 280,
+    "power_output_hp_max": 280,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "audi-q8-g1",
+    "make": "Audi",
+    "model": "Q8",
+    "generation": 1,
+    "brands": [
+      "Audi"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2019,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "AWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 134,
+    "power_output_hp_max": 134,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "mercedes-benz-amg-gt-g1",
+    "make": "Mercedes-benz",
+    "model": "AMG GT",
+    "generation": 1,
+    "brands": [
+      "Mercedes-benz"
+    ],
+    "country_of_origin": "German",
+    "production_start": 2017,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "V8"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 456,
+    "power_output_hp_max": 456,
+    "power_output_ranges": [
+      "401-500"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "mercedes-benz-c-class-g1",
+    "make": "Mercedes-benz",
+    "model": "C-Class",
+    "generation": 1,
+    "brands": [
+      "Mercedes-benz"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 215,
+    "power_output_hp_max": 215,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "mercedes-benz-e-class-g1",
+    "make": "Mercedes-benz",
+    "model": "E-Class",
+    "generation": 1,
+    "brands": [
+      "Mercedes-benz"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": "TODO — integer, weakest engine option at first gen launch",
+    "power_output_hp_max": "TODO — integer, strongest engine option at first gen launch",
+    "power_output_ranges": [
+      "TODO — run derive-fields.mjs after setting hp values"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "mercedes-benz-s-class-g1",
+    "make": "Mercedes-benz",
+    "model": "S-Class",
+    "generation": 1,
+    "brands": [
+      "Mercedes-benz"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 114,
+    "power_output_hp_max": 114,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "mercedes-benz-g-class-g1",
+    "make": "Mercedes-benz",
+    "model": "G-Class",
+    "generation": 1,
+    "brands": [
+      "Mercedes-benz"
+    ],
+    "country_of_origin": "German",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 300,
+    "power_output_hp_max": 300,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "lamborghini-huracan-g1",
+    "make": "Lamborghini",
+    "model": "Huracan",
+    "generation": 1,
+    "brands": [
+      "Lamborghini"
+    ],
+    "country_of_origin": "Italian",
+    "production_start": 2015,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "V10"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "AWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 610,
+    "power_output_hp_max": 610,
+    "power_output_ranges": [
+      "601-700"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "ferrari-488-g1",
+    "make": "Ferrari",
+    "model": "488",
+    "generation": 1,
+    "brands": [
+      "Ferrari"
+    ],
+    "country_of_origin": "Italian",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 670,
+    "power_output_hp_max": 670,
+    "power_output_ranges": [
+      "601-700"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "mclaren-720s-g1",
+    "make": "Mclaren",
+    "model": "720S",
+    "generation": 1,
+    "brands": [
+      "Mclaren"
+    ],
+    "country_of_origin": "British",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 720,
+    "power_output_hp_max": 720,
+    "power_output_ranges": [
+      "701-800"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "aston-martin-vantage-g1",
+    "make": "Aston Martin",
+    "model": "Vantage",
+    "generation": 1,
+    "brands": [
+      "Aston Martin"
+    ],
+    "country_of_origin": "British",
+    "production_start": 2025,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "V8"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 380,
+    "power_output_hp_max": 380,
+    "power_output_ranges": [
+      "301-400"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "jaguar-f-type-g1",
+    "make": "Jaguar",
+    "model": "F-TYPE",
+    "generation": 1,
+    "brands": [
+      "Jaguar"
+    ],
+    "country_of_origin": "British",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 300,
+    "power_output_hp_max": 300,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "maserati-granturismo-g1",
+    "make": "Maserati",
+    "model": "Granturismo",
+    "generation": 1,
+    "brands": [
+      "Maserati"
+    ],
+    "country_of_origin": "Italian",
+    "production_start": 2008,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "V8"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 550,
+    "power_output_hp_max": 550,
+    "power_output_ranges": [
+      "501-600"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "mazda-rx-7-g1",
+    "make": "Mazda",
+    "model": "RX-7",
+    "generation": 1,
+    "brands": [
+      "Mazda"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1984,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 130,
+    "power_output_hp_max": 130,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "infiniti-q60-g1",
+    "make": "Infiniti",
+    "model": "Q60",
+    "generation": 1,
+    "brands": [
+      "Infiniti"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2015,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 406,
+    "power_output_hp_max": 406,
+    "power_output_ranges": [
+      "401-500"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "acura-nsx-g1",
+    "make": "Acura",
+    "model": "NSX",
+    "generation": 1,
+    "brands": [
+      "Acura"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1991,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 573,
+    "power_output_hp_max": 573,
+    "power_output_ranges": [
+      "501-600"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "tesla-model-s-g1",
+    "make": "Tesla",
+    "model": "Model S",
+    "generation": 1,
+    "brands": [
+      "Tesla"
+    ],
+    "country_of_origin": "American",
+    "production_start": 2012,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 362,
+    "power_output_hp_max": 362,
+    "power_output_ranges": [
+      "301-400"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Electric"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "koenigsegg-agera-g1",
+    "make": "Koenigsegg",
+    "model": "Agera",
+    "generation": 1,
+    "brands": [
+      "Koenigsegg"
+    ],
+    "country_of_origin": "Swedish",
+    "production_start": "TODO — first gen start year (integer)",
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 947,
+    "power_output_hp_max": 947,
+    "power_output_ranges": [
+      "901-1000"
+    ],
+    "transmission": [
+      "TODO — Manual | Automatic | CVT (array — include all offered options)"
+    ],
+    "fuel_type": [
+      "TODO — Gasoline | Diesel | Electric | Hybrid | Plug-in Hybrid (array)"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "pagani-huayra-g1",
+    "make": "Pagani",
+    "model": "Huayra",
+    "generation": 1,
+    "brands": [
+      "Pagani"
+    ],
+    "country_of_origin": "Italian",
+    "production_start": 2018,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "V12"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 740,
+    "power_output_hp_max": 740,
+    "power_output_ranges": [
+      "701-800"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "bugatti-chiron-g1",
+    "make": "Bugatti",
+    "model": "Chiron",
+    "generation": 1,
+    "brands": [
+      "Bugatti"
+    ],
+    "country_of_origin": "French",
+    "production_start": 2018,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — V8 | V12 | V10 | V6 | Inline-6 | Inline-4 | Flat-6 | Flat-4 | Rotary | Electric | ..."
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "AWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 1479,
+    "power_output_hp_max": 1479,
+    "power_output_ranges": [
+      "1000+"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "rolls-royce-phantom-g1",
+    "make": "Rolls-royce",
+    "model": "Phantom",
+    "generation": 1,
+    "brands": [
+      "Rolls-royce"
+    ],
+    "country_of_origin": "British",
+    "production_start": 2004,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "V12"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "RWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": "TODO — integer, weakest engine option at first gen launch",
+    "power_output_hp_max": "TODO — integer, strongest engine option at first gen launch",
+    "power_output_ranges": [
+      "TODO — run derive-fields.mjs after setting hp values"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "lincoln-continental-g1",
+    "make": "Lincoln",
+    "model": "Continental",
+    "generation": 1,
+    "brands": [
+      "Lincoln"
+    ],
+    "country_of_origin": "American",
+    "production_start": 1984,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "V8"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "TODO — RWD | FWD | AWD | 4WD (array — include all offered options)"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 131,
+    "power_output_hp_max": 131,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Diesel",
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-prius-g1",
+    "make": "Toyota",
+    "model": "Prius",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2001,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 97,
+    "power_output_hp_max": 97,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "CVT"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-c-hr-g1",
+    "make": "Toyota",
+    "model": "C-HR",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2018,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 201,
+    "power_output_hp_max": 201,
+    "power_output_ranges": [
+      "201-300"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-rav4-g1",
+    "make": "Toyota",
+    "model": "RAV4",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2014,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 67,
+    "power_output_hp_max": 67,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-avalon-g1",
+    "make": "Toyota",
+    "model": "Avalon",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 1995,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "TODO — 6-cyl — verify: Inline-6 | V6 | Flat-6"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "FWD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 192,
+    "power_output_hp_max": 192,
+    "power_output_ranges": [
+      "101-200"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
+  },
+  {
+    "id": "toyota-land-cruiser-g1",
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "generation": 1,
+    "brands": [
+      "Toyota"
+    ],
+    "country_of_origin": "Japanese",
+    "production_start": 2024,
+    "production_end": "TODO — first gen end year (integer), or null if still in first gen",
+    "decades": [
+      "TODO — run derive-fields.mjs after setting production years"
+    ],
+    "engine_layouts": [
+      "Inline-4"
+    ],
+    "body_style": "TODO — Sedan | Coupe | Convertible | Hatchback | Wagon | SUV | Pickup Truck | Minivan",
+    "drivetrain": [
+      "4WD"
+    ],
+    "car_class": "TODO — Muscle Car | Sports Car | Supercar | Hypercar | Hot Hatch | SUV | Off-Road | Pickup Truck | Sedan | Coupe | Hatchback | Wagon | Minivan",
+    "power_output_hp_min": 85,
+    "power_output_hp_max": 85,
+    "power_output_ranges": [
+      "0-100"
+    ],
+    "transmission": [
+      "Automatic"
+    ],
+    "fuel_type": [
+      "Gasoline"
+    ],
+    "pop_culture": null,
+    "price_at_launch_usd": null,
+    "manufacturer_still_active": true,
+    "image_url": ""
   }
 ]
