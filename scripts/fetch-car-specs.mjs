@@ -168,6 +168,9 @@ console.log(`✓ ${canonicalMake} ${canonicalModel} confirmed`);
 
 const EPA = "https://www.fueleconomy.gov/ws/rest";
 const JSON_HEADERS = { Accept: "application/json" };
+// EPA menu endpoints return menuItem as a bare object when there is exactly
+// one result, and an array otherwise
+const asArray = (x) => (Array.isArray(x) ? x : x == null ? [] : [x]);
 let epaSpecs = null;
 
 console.log("Fetching launch specs from fueleconomy.gov…");
@@ -178,7 +181,7 @@ try {
     { headers: JSON_HEADERS }
   );
   const yearsData = await yearsRes.json();
-  const years = (yearsData?.menuItem ?? [])
+  const years = asArray(yearsData?.menuItem)
     .map((item) => parseInt(item.value))
     .filter(Boolean)
     .sort((a, b) => a - b);
@@ -196,7 +199,7 @@ try {
         { headers: JSON_HEADERS }
       );
       const trimsData = await trimsRes.json();
-      const ids = (trimsData?.menuItem ?? []).map((item) => item.value).filter(Boolean);
+      const ids = asArray(trimsData?.menuItem).map((item) => item.value).filter(Boolean);
       if (ids.length > 0) { firstYear = year; trimIds = ids; break; }
     }
 
